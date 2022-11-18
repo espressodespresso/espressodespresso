@@ -1,4 +1,14 @@
-### Hi there 👋
+### Harry M
+#### espressodespresso
+
+### Skills 
+#### Most Experience
+* #️⃣ CSharp
+* ☕ Java
+
+#### Learning
+* 🚦 GoLang
+
 
 <!--
 **espressodespresso/espressodespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
