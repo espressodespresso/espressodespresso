@@ -1,12 +1,9 @@
 # Harry M
 espressodespresso
 
-## Skills 
-### Most Experience
+## Skills and Experience 
 * #️⃣ CSharp
 * ☕ Java
-
-### Learning
 * 🚦 GoLang
 
 
