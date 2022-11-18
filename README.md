@@ -1,4 +1,4 @@
-# Harry M
+# Hi there 👋
 I'm Harry, online presence as espressodespresso. I'm currently studying BEng Software Engineering with aspirations to continue onto a masters degree. I mainly work with OOP languages, with CSharp being my main language. If you would like to contact me, either reach out by email or twitter!
 
 ## Skills and Experience 
