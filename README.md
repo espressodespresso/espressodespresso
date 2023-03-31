@@ -4,8 +4,8 @@ I'm Harry, online presence as espressodespresso. I'm currently studying BEng Sof
 ## Skills and Experience 
 * #️⃣ CSharp
 * ☕ Java
+* ⌨️ Typescript
 * 🚦 GoLang
-
 
 <!--
 **espressodespresso/espressodespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
