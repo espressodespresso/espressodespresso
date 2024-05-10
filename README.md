@@ -1,11 +1,12 @@
 # Hi there 👋
-I'm Harry, online presence as espressodespresso. I'm currently studying BEng Software Engineering with aspirations to continue onto a masters degree. I mainly work with OOP languages, with CSharp being my main language. If you would like to contact me, either reach out by email or twitter!
+I'm Harry, online presence as espressodespresso. So far, I've finalised a BEng in Software Engineering, now continuing onto an MEng in Electrical and Computer Engineering. Currently, my main interest is within the Typescript programming language, but I've worked with many different types. If you would like to contact me, either reach out by email or Twitter (X)!
 
 ## Skills and Experience 
+* ⌨️ Typescript
 * #️⃣ CSharp
 * ☕ Java
-* ⌨️ Typescript
 * 🚦 GoLang
+* ⚙️ Rust
 
 <!--
 **espressodespresso/espressodespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
