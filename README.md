@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Harry, online presence as espressodespresso. So far, I've finalised a BEng in Software Engineering, now continuing onto an MEng in Electrical and Computer Engineering. Currently, my main interest is within the Typescript programming language, but I've worked with many different types. If you would like to contact me, either reach out by email or Twitter (X)!
+I'm Harry, online presence as espressodespresso. So far, I've finalised a BEng in Software Engineering, with aspirations to continue onto a masters program in the future. Currently, my main interest is within the Typescript programming language, but I've worked with many different types. If you would like to contact me, either reach out by email or Twitter (X)!
 
 ## Skills and Experience 
 * ⌨️ Typescript
